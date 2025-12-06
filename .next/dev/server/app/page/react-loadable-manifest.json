@@ -1,0 +1,10 @@
+{
+  "[project]/components/magic-bento.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/magic-bento.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_gsap_0e537b14._.js",
+      "static/chunks/components_magic-bento_tsx_3fc17a95._.js",
+      "static/chunks/components_magic-bento_tsx_834f0c19._.js"
+    ]
+  }
+}
